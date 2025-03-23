@@ -10,7 +10,7 @@
 - Cross-validation: Stratified 5-fold
 
 - Save model checkpoints: No
-|:--------------------|-----------:|------------:|---------:|-----------:|---------------:|-----------------:|----------:|------------------:|
+|--------------------------------------------------------------------------------------------------------------------------------------------|
 - Accuracy,Precision,Recall,F1-Score are calculated based on test set
 
 - Best Validation Accuracy is calculated as the accuracy of the fold with best value
