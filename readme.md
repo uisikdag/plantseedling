@@ -37,7 +37,7 @@
 
 ## Individual Model Results
 
-### vgg19[https://pytorch.org/vision/main/models/generated/torchvision.models.vgg19.html]
+### vgg19[Link | https://pytorch.org/vision/main/models/generated/torchvision.models.vgg19.html]
 
 #### Architecture Details
 - Total Parameters: 139,630,412
