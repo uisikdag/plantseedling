@@ -11,11 +11,13 @@
 
 - Cross-validation: Stratified 5-fold
 
-- Accuracy,Precision,Recall,F1-Score are calculated based on test set
+- Accuracy,Precision,Recall,F1-Score are calculated based on Test Set
 
 - Best Validation Accuracy is calculated as the accuracy of the fold with best value
 
-- Average Per Class Performance for each fold is calculated as the mean of test set results for all folds
+- Average Per Class Performance for each fold is calculated as the mean of Test Set results for all folds
+
+-Std Dev refers to the standard deviation of the Test Accuracy across different folds in the cross-validation process. 
 
 ## Model Performance Comparison
 
