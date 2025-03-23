@@ -7,10 +7,10 @@
 - Test samples: 300
 - Classes: Black-grass, Charlock, Cleavers, Common Chickweed, Common wheat, Fat Hen, Loose Silky-bent, Maize, Scentless Mayweed, Shepherds Purse, Small-flowered Cranesbill, Sugar beet
 
+## Training Results
+
 - Cross-validation: Stratified 5-fold
 
-- Save model checkpoints: No
-|--------------------------------------------------------------------------------------------------------------------------------------------|
 - Accuracy,Precision,Recall,F1-Score are calculated based on test set
 
 - Best Validation Accuracy is calculated as the accuracy of the fold with best value
