@@ -177,7 +177,7 @@
 
 ---
 
-### [tf_efficientnetv2_s] (https://huggingface.co/docs/timm/models/tf-efficientnet)
+### [tf_efficientnetv2_s](https://huggingface.co/docs/timm/models/tf-efficientnet)
 
 #### Architecture Details
 - Total Parameters: 20,192,860
@@ -247,7 +247,7 @@
 
 ---
 
-### [vit_large_patch16_224]
+### vit_large_patch16_224
 
 #### Architecture Details
 - Total Parameters: 303,313,932
@@ -282,7 +282,7 @@
 
 ---
 
-### davit
+### davit_base.msft_in1k
 
 #### Architecture Details
 - Total Parameters: 86,941,708
@@ -317,7 +317,7 @@
 
 ---
 
-### swinv2
+### swinv2_base_window8_256.ms_in1k
 
 #### Architecture Details
 - Total Parameters: 86,906,116
@@ -387,7 +387,7 @@
 
 ---
 
-### coatnet_3
+### coatnet_3_rw_224.sw_in12k
 
 #### Architecture Details
 - Total Parameters: 163,654,872
