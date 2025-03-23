@@ -352,7 +352,7 @@
 
 ---
 
-### convnext_large
+### [convnext_large](https://pytorch.org/vision/0.21/models/generated/torchvision.models.convnext_large.html)
 
 #### Architecture Details
 - Total Parameters: 196,248,780
