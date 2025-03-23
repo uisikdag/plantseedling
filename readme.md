@@ -37,7 +37,7 @@
 
 ## Individual Model Results
 
-### [vgg19](https://pytorch.org/vision/main/models/generated/torchvision.models.vgg19.html){:target="_blank"}
+### [vgg19](https://pytorch.org/vision/main/models/generated/torchvision.models.vgg19.html)
 
 #### Architecture Details
 - Total Parameters: 139,630,412
@@ -72,7 +72,7 @@
 
 ---
 
-### resnet152
+### [resnet152](https://pytorch.org/vision/0.20/models/generated/torchvision.models.resnet152.html)
 
 #### Architecture Details
 - Total Parameters: 58,168,396
