@@ -107,7 +107,7 @@
 
 ---
 
-### inception_resnet_v2
+### [inception_resnet_v2](https://huggingface.co/docs/timm/models/inception-resnet-v2)
 
 #### Architecture Details
 - Total Parameters: 54,324,908
@@ -142,7 +142,7 @@
 
 ---
 
-### mobilenet_v3
+### [mobilenet_v3](https://huggingface.co/docs/timm/models/mobilenet-v3)
 
 #### Architecture Details
 - Total Parameters: 4,217,404
@@ -177,7 +177,7 @@
 
 ---
 
-### efficientnet_v3
+### [tf_efficientnetv2_s] (https://huggingface.co/docs/timm/models/tf-efficientnet)
 
 #### Architecture Details
 - Total Parameters: 20,192,860
@@ -212,7 +212,7 @@
 
 ---
 
-### nasnet_large
+### [nasnetalarge.tf_in1k](https://huggingface.co/docs/timm/models/nasnet)
 
 #### Architecture Details
 - Total Parameters: 84,768,546
@@ -247,7 +247,7 @@
 
 ---
 
-### vit_large_patch16
+### [vit_large_patch16_224]
 
 #### Architecture Details
 - Total Parameters: 303,313,932
