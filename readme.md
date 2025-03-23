@@ -11,11 +11,11 @@
 
 - Save model checkpoints: No
 
--Accuracy,Precision,Recall,F1-Score are calculated based on test set
+- Accuracy,Precision,Recall,F1-Score are calculated based on test set
 
--Best Validation Accuracy is calculated as the accuracy of the fold with best value
+- Best Validation Accuracy is calculated as the accuracy of the fold with best value
 
--Average Per Class Performance for each fold is calculated as the mean of test set results for all folds
+- Average Per Class Performance for each fold is calculated as the mean of test set results for all folds
 
 ## Model Performance Comparison
 
