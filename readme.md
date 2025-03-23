@@ -17,7 +17,7 @@
 
 - Average Per Class Performance for each fold is calculated as the mean of Test Set results for all folds
 
--Std Dev refers to the standard deviation of the Test Accuracy across different folds in the cross-validation process. 
+- Std Dev refers to the standard deviation of the Test Accuracy across different folds in the cross-validation process. 
 
 ## Model Performance Comparison
 
